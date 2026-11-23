@@ -1,5 +1,5 @@
 {
-  "client_id": "https://github.com/yaner-svg/undermind-client/undermind-client-metadata.json",
+  "client_id": "https://yaner-svg.github.io/undermind-client/undermind-client-metadata.json",
   "client_name": "DeepSeek Harness",
   "client_uri": "https://github.com/deepseek-ai",
   "redirect_uris": ["http://127.0.0.1:8799/callback"],
